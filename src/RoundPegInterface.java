@@ -1,0 +1,3 @@
+interface RoundPeg {
+    int getRadius();
+}
